@@ -14,7 +14,6 @@ items:
  - rubyforgood/playtime
  - rubyforgood/demand-progress
  - ebimodeling/ghgvc
- - raksha-life/rescuekerala
  - Data4Democracy/ethics-resources
  - civicdata/civicdata.github.io
  - Greenstand/Development-Overview
